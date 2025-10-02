@@ -1,4 +1,4 @@
-# <center> **Mentor_Bot** </center>
+<h1><center><b>Mentor_Bot</b></center></h1>
 
 *<u style="color: lightblue">Телеграм бот</u>,* созданный для планирования дня. Написан на языке python с использованием сторонних библиотек <i style= "color: pink">python-telegram-bot</i> и <i style= "color: pink">tzdata</i>.
 
